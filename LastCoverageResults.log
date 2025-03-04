@@ -1,0 +1,21 @@
+[2024-05-29 02:51:45] [info] Start Program:
+Path:"C:\Users\marco\Desktop\OOP\lab8-9\Project1\x64\Debug\Project1.exe"
+Arguments:
+Working directory: "C:\Users\marco\Desktop\OOP\lab8-9\Project1\"
+Modules: Selected: C:\Users\marco\Desktop\OOP\lab8-9\Project1\x64\Debug\Project1.exe Excluded: 
+Sources: Selected: C:\Users\marco\Desktop\OOP\lab8-9\Project1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\marco\AppData\Local\Temp\npoxnmeb.u5f 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-29 02:51:45] [info] Module: C:\Users\marco\Desktop\OOP\lab8-9\Project1\x64\Debug\Project1.exe is selected because it matches selected pattern: C:\Users\marco\Desktop\OOP\lab8-9\Project1\x64\Debug\Project1.exe
+[2024-05-29 02:51:45] [info] ----------------------------------------------------
+[2024-05-29 02:51:45] [info] Coverage binary generated in file: C:\Users\marco\AppData\Local\Temp\npoxnmeb.u5f
+[2024-05-29 02:51:45] [info] ----------------------------------------------------
